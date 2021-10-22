@@ -1,0 +1,1 @@
+This is Ravikant's first git project!
